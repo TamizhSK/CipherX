@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "build": 469,
-    "timestamp": 1777913942,
-    "environment": "staging"
-  }
+  "version": "3.6.2",
+  "updated": "2026-05-06T15:39:43.246651",
+  "status": "active"
 }
