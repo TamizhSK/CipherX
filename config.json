@@ -1,7 +1,5 @@
 {
-  "metadata": {
-    "build": 803,
-    "timestamp": 1778689525,
-    "environment": "production"
-  }
+  "version": "2.5.6",
+  "updated": "2026-05-13T20:25:42.042552",
+  "status": "active"
 }
